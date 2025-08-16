@@ -1,1 +1,1 @@
-full code is uploaded on replit, click file to check it out
+Click on "CS11_PyGame_Project.py" and copy and paste url to check the full code out
